@@ -1,3 +1,18 @@
 ![NutriDash](/RecursosDocumentación/Logo.svg)
-# NutriDash
-Juego de nutrición para niños y adolescentes, para el curso de Construcción de Software.
+<h1 align="center">NutriDash</h1>
+
+## Tabla de Contenidos
+
+- [Problemática](#problemática).
+- [Aplicaciones Similares](#aplicaciones-similares).
+- [Propósito del Proyecto](#propósito-del-proyecto).
+- [Tecnologías Usadas](#tecnologías-usadas).
+- [Características](#características).
+- [Interfaz del Proyecto](#interfaz-del-proyecto).
+
+### Problemática
+### Aplicaciones Similares
+### Propósito del Proyecto
+### Tecnologías Usadas
+### Características
+### Interfaz del Proyecto
