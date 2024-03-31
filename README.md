@@ -47,7 +47,7 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
 
 ## Interfaz del Proyecto
 - ## Desarrollo
-- ### Funcionalidades y Artefactos
+- ### Funcionalidades
 - ### Diagrama de Casos de Uso
 - ### Mockups
 
