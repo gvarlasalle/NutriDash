@@ -10,17 +10,17 @@
 - [Tecnologías Usadas](#tecnologías-usadas).
 - [Interfaz del Proyecto](#interfaz-del-proyecto).
 
-### Problemática
+## Problemática
 
 La obesidad infantil y de adolescentes está en aumento en el Perú, donde se observa una alarmante normalización de hábitos poco saludables. La falta de ejercicio entre los niños y adolescentes agrava esta situación, con consecuencias graves para la salud a corto y largo plazo. La escasa conciencia sobre hábitos alimenticios adecuados contribuye a este problema, generando una preocupante tendencia hacia el sedentarismo y la mala alimentación entre las nuevas generaciones. Es imperativo promover la educación sobre nutrición y fomentar la actividad física desde una edad temprana para revertir esta tendencia y salvaguardar la salud de los niños y adolescentes peruanos.
 
-### Aplicaciones Similares
+## Aplicaciones Similares
 
 - [Colores: frutas y hortalizas](https://www.minilandteachandplay.com/recurso/colores-frutas-y-hortalizas/)
 - [Origen vegetal y animal](https://www.minilandteachandplay.com/recurso/origen-vegetal-y-animal/)
 - [¿Qué grupo es cada alimento?](https://www.minilandteachandplay.com/recurso/que-grupo-es-cada-alimento/)
 
-### Propósito del Proyecto
+## Propósito del Proyecto
 
 ¡En el juego "NutriDash", tu personaje se embarcará en una emocionante aventura de correr y recolectar alimentos mientras enfrenta desafíos para mejorar su salud y rendimiento! Aquí está cómo abordamos nuestros objetivos clave:
 
@@ -31,7 +31,7 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
 * **Prevenir la obesidad y problemas alimenticios:** Al recompensar la selección de alimentos saludables y proporcionar información sobre los beneficios de una alimentación equilibrada, NutriDash ayuda a prevenir la obesidad y otros problemas relacionados con la alimentación.
 * **Utilizar la gamificación para el aprendizaje y cambio de comportamiento:** Integrando elementos de juego como competiciones por puntos y logros, NutriDash motiva a los jugadores a comprometerse con hábitos más saludables tanto dentro como fuera del juego.
 
-### Características
+## Características
 
 * Diversidad de alimentos
 * Sistema de puntuación
@@ -40,11 +40,16 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
 * Mecánicas de juego intuitivas
 * Enfoque en la salud y el bienestar
 
-### Tecnologías Usadas
+## Tecnologías Usadas
 
 * C#
 * Unity 
 
-### Interfaz del Proyecto
+## Interfaz del Proyecto
+
+## Desarrollo
+### Funcionalidades
+### Diagrama de Casos de Uso
+### Mockups
 
 
