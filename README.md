@@ -33,12 +33,12 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
 
 ## Características
 
-* Diversidad de alimentos
-* Sistema de puntuación
-* Feedback educativo
-* Gráficos atractivos
-* Mecánicas de juego intuitivas
-* Enfoque en la salud y el bienestar
+* Diversidad de alimentos.
+* Sistema de puntuación.
+* Feedback educativo.
+* Gráficos atractivos.
+* Mecánicas de juego intuitivas.
+* Enfoque en la salud y el bienestar.
 
 ## Tecnologías Usadas
 
