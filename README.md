@@ -1,4 +1,6 @@
-![NutriDash](/RecursosDocumentación/Logo.svg)
+<p align="center">
+  <img src="/RecursosDocumentación/Logo.svg" alt="TNutriDash">
+</p>
 <h1 align="center">NutriDash</h1>
 
 ## Tabla de Contenidos
