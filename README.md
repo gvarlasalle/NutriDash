@@ -54,6 +54,7 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
   [Documentación Requisitos Específicos NutriDash.](https://drive.google.com/drive/folders/1gFDKs48Db6IF5c2L-uB0VtFrnvM_azoa?usp=sharing)
 - ### Artefactos
 - #### Diagrama de Casos de Uso
+  
 - ### Mockups
   ![Mockup 1](/RecursosDocumentación/mockup1.png)
   ![Leyenda](/RecursosDocumentación/leyenda.png)
