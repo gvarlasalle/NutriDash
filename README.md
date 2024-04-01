@@ -50,8 +50,21 @@ La obesidad infantil y de adolescentes está en aumento en el Perú, donde se ob
 ## Interfaz del Proyecto
 - ## Desarrollo
 - ### Funcionalidades
+
+* Creación de cuentas de jugador.
+* Selección de personajes.
+* Desbloqueo de escenarios
+* Detección de recolección de alimentos.
+* Aplicación de efecto de alimentos.
+* Actualización de la interfaz de usuario.
+* Control de movimiento del personaje.
+* Detección y respuesta a acciones.
+* Indicadores de progreso y objetivos.
+* Retroalimentación visual y auditiva sobre el desempeño del jugador.
+
   Se escribio los requisitos específicos de NutriDash en el siguiente documento, el cual posee los requisitos funcionales(RF) y los requisitos no funcionales(RNF) de este proyecto. 
   [Documentación Requisitos Específicos NutriDash.](https://drive.google.com/drive/folders/1gFDKs48Db6IF5c2L-uB0VtFrnvM_azoa?usp=sharing)
+  
 - ### Artefactos
 - #### Diagrama de Casos de Uso
   
